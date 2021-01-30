@@ -1,0 +1,33 @@
+img {
+	height: 200px;
+	border-radius: 10px;
+	border: solid 5px white;
+}
+
+#header {
+	padding: 40px;
+	background-image: url("https://images6.alphacoders.com/911/thumb-1920-911401.jpg");
+	text-align: center;
+}
+
+#header h1 {
+	color: white;
+}
+
+#nav {
+	text-align: center;
+	background: black;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+#nav a{
+	font-style: none;
+	color: white;
+	padding: 10px;
+}
+
+#content {
+	padding-left: 100px;
+	padding-right: 100px;
+}
